@@ -1,0 +1,35 @@
+body{
+	background: #ADD8E6;
+    background-position: static;
+}
+h1{
+	text-align: center;
+	font: Arial;
+	font-size: 60px;
+	text-shadow: 2px 2px 3px black;
+}
+
+h2{
+	text-align: left;
+	font: Arial;
+	font-size: 30px;
+	text-shadow: 2px 2px 3px black;
+}
+
+h3{
+	text-align: left;
+	font: Arial;
+	font-size: 20px;
+	text-shadow: 2px 2px 100px black;
+}
+h5{
+	font: Arial;
+	text-align: left;
+	font-size: 10px;
+}
+
+p{
+	font: Arial;
+	text-align: left;
+	font-size: 17px;
+}
